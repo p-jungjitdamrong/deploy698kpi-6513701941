@@ -1,4 +1,3 @@
-zlib
 scikit-learn
 streamlit
 pandas
